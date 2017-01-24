@@ -8,6 +8,3 @@ Hey there
 
 < Oh, hello there!
 * greeting
-
-< My name is [Derick](name).
-* affirmative
